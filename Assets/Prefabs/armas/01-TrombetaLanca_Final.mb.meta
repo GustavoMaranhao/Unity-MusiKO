@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 8c69e1229b04dc14184feb135318d1f9
+timeCreated: 1441143189
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: nurbsToPoly1
+    100004: nurbsToPoly10
+    100006: nurbsToPoly11
+    100008: nurbsToPoly12
+    100010: nurbsToPoly13
+    100012: nurbsToPoly14
+    100014: nurbsToPoly15
+    100016: nurbsToPoly16
+    100018: nurbsToPoly17
+    100020: nurbsToPoly18
+    100022: nurbsToPoly2
+    100024: nurbsToPoly3
+    100026: nurbsToPoly4
+    100028: nurbsToPoly5
+    100030: nurbsToPoly6
+    100032: nurbsToPoly7
+    100034: nurbsToPoly8
+    100036: nurbsToPoly9
+    400000: //RootNode
+    400002: nurbsToPoly1
+    400004: nurbsToPoly10
+    400006: nurbsToPoly11
+    400008: nurbsToPoly12
+    400010: nurbsToPoly13
+    400012: nurbsToPoly14
+    400014: nurbsToPoly15
+    400016: nurbsToPoly16
+    400018: nurbsToPoly17
+    400020: nurbsToPoly18
+    400022: nurbsToPoly2
+    400024: nurbsToPoly3
+    400026: nurbsToPoly4
+    400028: nurbsToPoly5
+    400030: nurbsToPoly6
+    400032: nurbsToPoly7
+    400034: nurbsToPoly8
+    400036: nurbsToPoly9
+    2300000: nurbsToPoly1
+    2300002: nurbsToPoly10
+    2300004: nurbsToPoly11
+    2300006: nurbsToPoly12
+    2300008: nurbsToPoly13
+    2300010: nurbsToPoly14
+    2300012: nurbsToPoly15
+    2300014: nurbsToPoly16
+    2300016: nurbsToPoly17
+    2300018: nurbsToPoly18
+    2300020: nurbsToPoly2
+    2300022: nurbsToPoly3
+    2300024: nurbsToPoly4
+    2300026: nurbsToPoly5
+    2300028: nurbsToPoly6
+    2300030: nurbsToPoly7
+    2300032: nurbsToPoly8
+    2300034: nurbsToPoly9
+    3300000: nurbsToPoly1
+    3300002: nurbsToPoly10
+    3300004: nurbsToPoly11
+    3300006: nurbsToPoly12
+    3300008: nurbsToPoly13
+    3300010: nurbsToPoly14
+    3300012: nurbsToPoly15
+    3300014: nurbsToPoly16
+    3300016: nurbsToPoly17
+    3300018: nurbsToPoly18
+    3300020: nurbsToPoly2
+    3300022: nurbsToPoly3
+    3300024: nurbsToPoly4
+    3300026: nurbsToPoly5
+    3300028: nurbsToPoly6
+    3300030: nurbsToPoly7
+    3300032: nurbsToPoly8
+    3300034: nurbsToPoly9
+    4300000: nurbsToPoly1
+    4300002: nurbsToPoly2
+    4300004: nurbsToPoly3
+    4300006: nurbsToPoly4
+    4300008: nurbsToPoly5
+    4300010: nurbsToPoly6
+    4300012: nurbsToPoly7
+    4300014: nurbsToPoly8
+    4300016: nurbsToPoly9
+    4300018: nurbsToPoly10
+    4300020: nurbsToPoly11
+    4300022: nurbsToPoly12
+    4300024: nurbsToPoly13
+    4300026: nurbsToPoly14
+    4300028: nurbsToPoly15
+    4300030: nurbsToPoly16
+    4300032: nurbsToPoly17
+    4300034: nurbsToPoly18
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

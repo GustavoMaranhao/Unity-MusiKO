@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 8235cd31a16dce249bbef5132c254128
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Female Peasant 01A
+    100002: Female Peasant 01B
+    100004: Female Peasant 01C
+    100006: Female Peasant 01D
+    100008: Female Peasant 01E
+    100010: //RootNode
+    100012: LItem-Dummy
+    100014: Rig
+    100016: RigHead
+    100018: RigHeadGizmo
+    100020: RigLArm1
+    100022: RigLArm1Gizmo
+    100024: RigLArm2
+    100026: RigLArm2Gizmo
+    100028: RigLArmIndex1
+    100030: RigLArmIndex2
+    100032: RigLArmIndex3
+    100034: RigLArmMiddle1
+    100036: RigLArmMiddle2
+    100038: RigLArmMiddle3
+    100040: RigLArmPalm
+    100042: RigLArmPalmGizmo
+    100044: RigLArmThumb1
+    100046: RigLArmThumb2
+    100048: RigLArmThumb3
+    100050: RigLLeg1
+    100052: RigLLeg2
+    100054: RigLLegAnkle
+    100056: RigLLegFoot1
+    100058: RigLLegFoot2
+    100060: RigLLegPlatform
+    100062: RigNeck
+    100064: RigPelvis
+    100066: RigPelvisGizmo
+    100068: RigRArm1
+    100070: RigRArm1Gizmo
+    100072: RigRArm2
+    100074: RigRArm2Gizmo
+    100076: RigRArmIndex1
+    100078: RigRArmIndex2
+    100080: RigRArmIndex3
+    100082: RigRArmMiddle1
+    100084: RigRArmMiddle2
+    100086: RigRArmMiddle3
+    100088: RigRArmPalm
+    100090: RigRArmPalmGizmo
+    100092: RigRArmThumb1
+    100094: RigRArmThumb2
+    100096: RigRArmThumb3
+    100098: RigRibcage
+    100100: RigRibcageGizmo
+    100102: RigRLeg1
+    100104: RigRLeg2
+    100106: RigRLegAnkle
+    100108: RigRLegFoot1
+    100110: RigRLegFoot2
+    100112: RigRLegPlatform
+    100114: RigSpine1
+    100116: RigSpine2
+    100118: RigSpine3
+    100120: RigSpine4
+    100122: RigSpine5
+    100124: RItem-Dummy
+    400000: Female Peasant 01A
+    400002: Female Peasant 01B
+    400004: Female Peasant 01C
+    400006: Female Peasant 01D
+    400008: Female Peasant 01E
+    400010: //RootNode
+    400012: LItem-Dummy
+    400014: Rig
+    400016: RigHead
+    400018: RigHeadGizmo
+    400020: RigLArm1
+    400022: RigLArm1Gizmo
+    400024: RigLArm2
+    400026: RigLArm2Gizmo
+    400028: RigLArmIndex1
+    400030: RigLArmIndex2
+    400032: RigLArmIndex3
+    400034: RigLArmMiddle1
+    400036: RigLArmMiddle2
+    400038: RigLArmMiddle3
+    400040: RigLArmPalm
+    400042: RigLArmPalmGizmo
+    400044: RigLArmThumb1
+    400046: RigLArmThumb2
+    400048: RigLArmThumb3
+    400050: RigLLeg1
+    400052: RigLLeg2
+    400054: RigLLegAnkle
+    400056: RigLLegFoot1
+    400058: RigLLegFoot2
+    400060: RigLLegPlatform
+    400062: RigNeck
+    400064: RigPelvis
+    400066: RigPelvisGizmo
+    400068: RigRArm1
+    400070: RigRArm1Gizmo
+    400072: RigRArm2
+    400074: RigRArm2Gizmo
+    400076: RigRArmIndex1
+    400078: RigRArmIndex2
+    400080: RigRArmIndex3
+    400082: RigRArmMiddle1
+    400084: RigRArmMiddle2
+    400086: RigRArmMiddle3
+    400088: RigRArmPalm
+    400090: RigRArmPalmGizmo
+    400092: RigRArmThumb1
+    400094: RigRArmThumb2
+    400096: RigRArmThumb3
+    400098: RigRibcage
+    400100: RigRibcageGizmo
+    400102: RigRLeg1
+    400104: RigRLeg2
+    400106: RigRLegAnkle
+    400108: RigRLegFoot1
+    400110: RigRLegFoot2
+    400112: RigRLegPlatform
+    400114: RigSpine1
+    400116: RigSpine2
+    400118: RigSpine3
+    400120: RigSpine4
+    400122: RigSpine5
+    400124: RItem-Dummy
+    4300000: Female Peasant 01E
+    4300002: Female Peasant 01B
+    4300004: Female Peasant 01C
+    4300006: Female Peasant 01A
+    4300008: Female Peasant 01D
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Female Peasant 01A
+    13700002: Female Peasant 01B
+    13700004: Female Peasant 01C
+    13700006: Female Peasant 01D
+    13700008: Female Peasant 01E
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

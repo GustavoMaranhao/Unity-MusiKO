@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: d69f1e5ac15accf48ae1da7dc54d4d07
+timeCreated: 1441221865
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bacia_Dir
+    100002: bacia_Esq
+    100004: back
+    100006: cabeca
+    100008: canela_Dir
+    100010: canela_Esq
+    100012: //RootNode
+    100014: clavicula_Dir
+    100016: clavicula_Esq
+    100018: cotovelo_Dir
+    100020: cotovelo_Esq
+    100022: dedosPe_Dir
+    100024: dedosPe_Esq
+    100026: espinha1
+    100028: espinha2
+    100030: espinha3
+    100032: espinha4
+    100034: fimCabeca
+    100036: fimPerna_Dir
+    100038: fimPerna_Esq
+    100040: ikHandle1
+    100042: ikHandle2
+    100044: ikHandle3
+    100046: ikHandle4
+    100048: ikHandle5
+    100050: ikHandle6
+    100052: imagePlane1
+    100054: imagePlane2
+    100056: joelho_Dir
+    100058: joelho_Esq
+    100060: locator_Joelho_Dir
+    100062: locator_Joelho_Esq
+    100064: medio_Base_Dir
+    100066: medio_Base_Esq
+    100068: medio_Final_Dir
+    100070: medio_Final_Esq
+    100072: medio_Meio_Dir
+    100074: medio_Meio_Esq
+    100076: medio_Palma_Dir
+    100078: medio_Palma_Esq
+    100080: mindinho_Base_Dir
+    100082: mindinho_Base_Esq
+    100084: mindinho_Final_Dir
+    100086: mindinho_Final_Esq
+    100088: mindinho_meio_Dir
+    100090: mindinho_meio_Esq
+    100092: mindinho_Palma_Dir
+    100094: mindinho_Palma_Esq
+    100096: nurbsCircle1
+    100098: nurbsCircle2
+    100100: ombro_Dir
+    100102: ombro_Esq
+    100104: pCube1
+    100106: pe_Dir
+    100108: pe_Esq
+    100110: pelve
+    100112: persp1
+    100114: pescoco
+    100116: polegar_Base_Dir
+    100118: polegar_Base_Esq
+    100120: polegar_Final_Dir
+    100122: polegar_Final_Esq
+    100124: polegar_Meio_Dir
+    100126: polegar_Meio_Esq
+    100128: polegar_Palma_Dir
+    100130: polegar_Palma_Esq
+    100132: pSphere1
+    100134: pSphere2
+    100136: pSphere3
+    100138: pSphere4
+    100140: pSphere5
+    100142: pSphere6
+    100144: pulso_Dir
+    100146: pulso_Esq
+    400000: bacia_Dir
+    400002: bacia_Esq
+    400004: back
+    400006: cabeca
+    400008: canela_Dir
+    400010: canela_Esq
+    400012: //RootNode
+    400014: clavicula_Dir
+    400016: clavicula_Esq
+    400018: cotovelo_Dir
+    400020: cotovelo_Esq
+    400022: dedosPe_Dir
+    400024: dedosPe_Esq
+    400026: espinha1
+    400028: espinha2
+    400030: espinha3
+    400032: espinha4
+    400034: fimCabeca
+    400036: fimPerna_Dir
+    400038: fimPerna_Esq
+    400040: ikHandle1
+    400042: ikHandle2
+    400044: ikHandle3
+    400046: ikHandle4
+    400048: ikHandle5
+    400050: ikHandle6
+    400052: imagePlane1
+    400054: imagePlane2
+    400056: joelho_Dir
+    400058: joelho_Esq
+    400060: locator_Joelho_Dir
+    400062: locator_Joelho_Esq
+    400064: medio_Base_Dir
+    400066: medio_Base_Esq
+    400068: medio_Final_Dir
+    400070: medio_Final_Esq
+    400072: medio_Meio_Dir
+    400074: medio_Meio_Esq
+    400076: medio_Palma_Dir
+    400078: medio_Palma_Esq
+    400080: mindinho_Base_Dir
+    400082: mindinho_Base_Esq
+    400084: mindinho_Final_Dir
+    400086: mindinho_Final_Esq
+    400088: mindinho_meio_Dir
+    400090: mindinho_meio_Esq
+    400092: mindinho_Palma_Dir
+    400094: mindinho_Palma_Esq
+    400096: nurbsCircle1
+    400098: nurbsCircle2
+    400100: ombro_Dir
+    400102: ombro_Esq
+    400104: pCube1
+    400106: pe_Dir
+    400108: pe_Esq
+    400110: pelve
+    400112: persp1
+    400114: pescoco
+    400116: polegar_Base_Dir
+    400118: polegar_Base_Esq
+    400120: polegar_Final_Dir
+    400122: polegar_Final_Esq
+    400124: polegar_Meio_Dir
+    400126: polegar_Meio_Esq
+    400128: polegar_Palma_Dir
+    400130: polegar_Palma_Esq
+    400132: pSphere1
+    400134: pSphere2
+    400136: pSphere3
+    400138: pSphere4
+    400140: pSphere5
+    400142: pSphere6
+    400144: pulso_Dir
+    400146: pulso_Esq
+    2300000: pSphere1
+    2300002: pSphere2
+    2300004: pSphere3
+    2300006: pSphere4
+    2300008: pSphere5
+    2300010: pSphere6
+    3300000: pSphere1
+    3300002: pSphere2
+    3300004: pSphere3
+    3300006: pSphere4
+    3300008: pSphere5
+    3300010: pSphere6
+    4300000: pCube1
+    4300002: pSphere1
+    4300004: pSphere4
+    4300006: pSphere2
+    4300008: pSphere3
+    4300010: pSphere5
+    4300012: pSphere6
+    7400000: clavaloIdle
+    7400002: clavaloFeeding
+    7400004: clavaloWalking
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pCube1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: clavaloIdle
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 72
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: imagePlane2
+        weight: 1
+      - path: locator_Joelho_Dir
+        weight: 1
+      - path: locator_Joelho_Esq
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1/ikHandle2
+        weight: 1
+      - path: nurbsCircle1/ikHandle1/ikHandle2/ikHandle3
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle4
+        weight: 1
+      - path: nurbsCircle2/ikHandle4/ikHandle5
+        weight: 1
+      - path: nurbsCircle2/ikHandle4/ikHandle5/ikHandle6
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pelve
+        weight: 1
+      - path: pelve/bacia_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir/dedosPe_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir/dedosPe_Dir/fimPerna_Dir
+        weight: 1
+      - path: pelve/bacia_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq/dedosPe_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq/dedosPe_Esq/fimPerna_Esq
+        weight: 1
+      - path: pelve/espinha1
+        weight: 1
+      - path: pelve/espinha1/espinha2
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir/medio_Meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir/medio_Meio_Dir/medio_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir/mindinho_meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir/mindinho_meio_Dir/mindinho_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir/polegar_Meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir/polegar_Meio_Dir/polegar_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq/medio_Meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq/medio_Meio_Esq/medio_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq/mindinho_meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq/mindinho_meio_Esq/mindinho_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq/polegar_Meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq/polegar_Meio_Esq/polegar_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/fimCabeca
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere1
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere2
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere3
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere4
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere5
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere6
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clavaloFeeding
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: imagePlane2
+        weight: 1
+      - path: locator_Joelho_Dir
+        weight: 1
+      - path: locator_Joelho_Esq
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1/ikHandle2
+        weight: 1
+      - path: nurbsCircle1/ikHandle1/ikHandle2/ikHandle3
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle4
+        weight: 1
+      - path: nurbsCircle2/ikHandle4/ikHandle5
+        weight: 1
+      - path: nurbsCircle2/ikHandle4/ikHandle5/ikHandle6
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pelve
+        weight: 1
+      - path: pelve/bacia_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir/dedosPe_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir/dedosPe_Dir/fimPerna_Dir
+        weight: 1
+      - path: pelve/bacia_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq/dedosPe_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq/dedosPe_Esq/fimPerna_Esq
+        weight: 1
+      - path: pelve/espinha1
+        weight: 1
+      - path: pelve/espinha1/espinha2
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir/medio_Meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir/medio_Meio_Dir/medio_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir/mindinho_meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir/mindinho_meio_Dir/mindinho_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir/polegar_Meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir/polegar_Meio_Dir/polegar_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq/medio_Meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq/medio_Meio_Esq/medio_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq/mindinho_meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq/mindinho_meio_Esq/mindinho_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq/polegar_Meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq/polegar_Meio_Esq/polegar_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/fimCabeca
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere1
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere2
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere3
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere4
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere5
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere6
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clavaloWalking
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 48
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      - path: imagePlane2
+        weight: 1
+      - path: locator_Joelho_Dir
+        weight: 1
+      - path: locator_Joelho_Esq
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1/ikHandle2
+        weight: 1
+      - path: nurbsCircle1/ikHandle1/ikHandle2/ikHandle3
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle4
+        weight: 1
+      - path: nurbsCircle2/ikHandle4/ikHandle5
+        weight: 1
+      - path: nurbsCircle2/ikHandle4/ikHandle5/ikHandle6
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pelve
+        weight: 1
+      - path: pelve/bacia_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir/dedosPe_Dir
+        weight: 1
+      - path: pelve/bacia_Dir/joelho_Dir/canela_Dir/pe_Dir/dedosPe_Dir/fimPerna_Dir
+        weight: 1
+      - path: pelve/bacia_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq/dedosPe_Esq
+        weight: 1
+      - path: pelve/bacia_Esq/joelho_Esq/canela_Esq/pe_Esq/dedosPe_Esq/fimPerna_Esq
+        weight: 1
+      - path: pelve/espinha1
+        weight: 1
+      - path: pelve/espinha1/espinha2
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir/medio_Meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/medio_Palma_Dir/medio_Base_Dir/medio_Meio_Dir/medio_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir/mindinho_meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/mindinho_Palma_Dir/mindinho_Base_Dir/mindinho_meio_Dir/mindinho_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir/polegar_Meio_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Dir/ombro_Dir/cotovelo_Dir/pulso_Dir/polegar_Palma_Dir/polegar_Base_Dir/polegar_Meio_Dir/polegar_Final_Dir
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq/medio_Meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/medio_Palma_Esq/medio_Base_Esq/medio_Meio_Esq/medio_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq/mindinho_meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/mindinho_Palma_Esq/mindinho_Base_Esq/mindinho_meio_Esq/mindinho_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq/polegar_Meio_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/clavicula_Esq/ombro_Esq/cotovelo_Esq/pulso_Esq/polegar_Palma_Esq/polegar_Base_Esq/polegar_Meio_Esq/polegar_Final_Esq
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/fimCabeca
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere1
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere2
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere3
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere4
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere5
+        weight: 1
+      - path: pelve/espinha1/espinha2/espinha3/espinha4/pescoco/cabeca/pSphere6
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
