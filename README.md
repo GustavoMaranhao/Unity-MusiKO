@@ -7,12 +7,17 @@ The first gameplay type is a 3D scene exploration in which the player has to com
 The second gameplay type is a turn based strategy combat in which the player controls a small team of units to battle the opposing team.
 
 Project developers:
+
 David Melo da Luz
+
 Fernando Vasques Leite
+
 Francisco da Fonseca Rodrigues
+
 Gustavo Franckevicius Gurgel Maranhão
 
 Advising professor:
+
 Lucas Padovani Trias
 
 Link to a demonstration video: https://www.youtube.com/watch?v=DpVZOi5LkXM
